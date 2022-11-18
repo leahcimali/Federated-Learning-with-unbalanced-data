@@ -27,4 +27,4 @@ local nodes.
 Our experiment will be tested on the MNIST dataset which has been quite heavily used as a
 benchmark in federated learning problems and algorithms. All experiments will be tested
 using Pytorch and we will compare results as centralized learning with federated learning
-and compare results in different cases of imbalance.
+and compare results in different cases of umbalance.
